@@ -5,7 +5,6 @@ public class Snack5 {
 
         String stringNumber = "257898";
         int integerNumber = 0;
-        int intero = Integer.parseInt(stringNumber)
 
         for (int i = 0; i < stringNumber.length() ; i++) {
             char charNumber = stringNumber.charAt(i);
