@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe47ec6a-a744-4cb7-bb68-06db811e0ad0" name="Changes" comment="add user input - Snack4">
-      <change afterPath="$PROJECT_DIR$/src/org/learning/snacks/Snack5.java" afterDir="false" />
+    <list default="true" id="fe47ec6a-a744-4cb7-bb68-06db811e0ad0" name="Changes" comment="add Snack5">
+      <change afterPath="$PROJECT_DIR$/src/org/learning/snacks/Snack6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -89,7 +89,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697721703612</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add Snack5">
+      <option name="closed" value="true" />
+      <created>1697723852461</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1697723852461</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -98,7 +106,8 @@
     <MESSAGE value="add Snack3" />
     <MESSAGE value="add Snack4" />
     <MESSAGE value="add user input - Snack4" />
-    <option name="LAST_COMMIT_MESSAGE" value="add user input - Snack4" />
+    <MESSAGE value="add Snack5" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Snack5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
