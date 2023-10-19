@@ -11,7 +11,8 @@ public class Snack2 {
         Random randomGenerator = new Random();
         for (int i = 0; i < names.length ; i++) {
         int randomNumber = randomGenerator.nextInt(0, names.length);
-        System.out.println(names[randomNumber] + " " + surnames[randomNumber]);
+        int otherRandomNumber = randomGenerator.nextInt(0, names.length);
+        System.out.println(names[randomNumber] + " " + surnames[otherRandomNumber]);
         }
     }
 }
