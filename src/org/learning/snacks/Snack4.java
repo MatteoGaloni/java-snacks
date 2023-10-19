@@ -1,8 +1,13 @@
 package org.learning.snacks;
 
+import java.util.Scanner;
+
 public class Snack4 {
     public static void main(String[] args) {
-        String word = "mom";
+        Scanner scan = new Scanner(System.in);
+        System.out.println("Enter a word");
+
+        String word = scan.nextLine();
         char[] chars = word.toCharArray();
         char[] revertedChars = new char[word.length()];
 
@@ -18,6 +23,8 @@ public class Snack4 {
         } else {
             System.out.println("The word " + word + " is not a palindrome" );
         }
+
+        scan.close();
 
     }
 }
